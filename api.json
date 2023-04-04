@@ -407,8 +407,7 @@
         "https://george-fx.github.io/funiq/resources/products/07.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-      "price": 42.9,
-      "old_price": 54,
+      "price": 156.3,
       "rating": 5,
       "is_bestseller": false,
       "is_sale": false,
@@ -474,8 +473,7 @@
         "https://george-fx.github.io/funiq/resources/products/08.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-      "price": 42.9,
-      "old_price": 54,
+      "price": 229.7,
       "rating": 5,
       "is_bestseller": false,
       "is_sale": false,
@@ -541,8 +539,7 @@
         "https://george-fx.github.io/funiq/resources/products/09.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-      "price": 42.9,
-      "old_price": 54,
+      "price": 229.7,
       "rating": 5,
       "is_bestseller": false,
       "is_sale": false,
@@ -608,8 +605,7 @@
         "https://george-fx.github.io/funiq/resources/products/10.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-      "price": 42.9,
-      "old_price": 54,
+      "price": 229.7,
       "rating": 5,
       "is_bestseller": false,
       "is_sale": false,
@@ -675,8 +671,7 @@
         "https://george-fx.github.io/funiq/resources/products/11.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-      "price": 42.9,
-      "old_price": 54,
+      "price": 377.0,
       "rating": 5,
       "is_bestseller": false,
       "is_sale": false,
@@ -742,8 +737,8 @@
         "https://george-fx.github.io/funiq/resources/products/12.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-      "price": 42.9,
-      "old_price": 54,
+      "price": 302.4,
+      "old_price": 354.8,
       "rating": 5,
       "is_bestseller": false,
       "is_sale": false,
@@ -809,8 +804,7 @@
         "https://george-fx.github.io/funiq/resources/products/13.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-      "price": 42.9,
-      "old_price": 54,
+      "price": 654.6,
       "rating": 5,
       "is_bestseller": false,
       "is_sale": false,
@@ -876,8 +870,8 @@
         "https://george-fx.github.io/funiq/resources/products/14.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-      "price": 42.9,
-      "old_price": 54,
+      "price": 30.0,
+      "old_price": 38.0,
       "rating": 5,
       "is_bestseller": false,
       "is_sale": true,
@@ -935,7 +929,7 @@
     },
     {
       "id": 15,
-      "name": "Bar stool",
+      "name": "Clock",
       "image": "https://george-fx.github.io/funiq/resources/products/15.jpg",
       "images": [
         "https://george-fx.github.io/funiq/resources/products/15.jpg",
@@ -943,8 +937,8 @@
         "https://george-fx.github.io/funiq/resources/products/15.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-      "price": 42.9,
-      "old_price": 54,
+      "price": 24.5,
+      "old_price": 38.00,
       "rating": 5,
       "is_bestseller": false,
       "is_sale": false,
@@ -1002,7 +996,7 @@
     },
     {
       "id": 16,
-      "name": "Clock",
+      "name": "Bar stool",
       "image": "https://george-fx.github.io/funiq/resources/products/16.jpg",
       "images": [
         "https://george-fx.github.io/funiq/resources/products/16.jpg",
@@ -1010,8 +1004,7 @@
         "https://george-fx.github.io/funiq/resources/products/16.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-      "price": 42.9,
-      "old_price": 54,
+      "price": 22.5,
       "rating": 5,
       "is_bestseller": false,
       "is_sale": true,
