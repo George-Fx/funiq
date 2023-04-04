@@ -103,7 +103,7 @@
         {
           "id": 1,
           "name": "Adrianna Mercado",
-          "image": "https://dl.dropbox.com/s/j84gakphpk67iwd/01.jpg?dl=0",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/01.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
           "rating": 5,
           "date": "23 Jan"
@@ -111,25 +111,25 @@
         {
           "id": 2,
           "name": "Dante Valdez",
-          "image": "https://dl.dropbox.com/s/xlaftgcgpmnhhg8/02.jpg?dl=0",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/02.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
-          "rating": 2,
+          "rating": 5,
           "date": "23 Jan"
         },
         {
           "id": 3,
           "name": "Troy Ingram",
-          "image": "https://dl.dropbox.com/s/52ypqf3l6v1el1r/03.jpg?dl=0",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/03.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
-          "rating": 3,
+          "rating": 5,
           "date": "23 Jan"
         },
         {
           "id": 4,
           "name": "Joshua Bean",
-          "image": "https://dl.dropbox.com/s/8tv1xto73kqd0g8/04.jpg?dl=0",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/04.jpg",
           "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
-          "rating": 3,
+          "rating": 5,
           "date": "23 Jan"
         }
       ]
