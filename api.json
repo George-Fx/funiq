@@ -4,9 +4,19 @@
       "id": 1,
       "name": "Pendant lamp",
       "image": "https://george-fx.github.io/funiq/resources/products/01.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq/resources/products/01.jpg",
+        "https://george-fx.github.io/funiq/resources/products/01.jpg",
+        "https://george-fx.github.io/funiq/resources/products/01.jpg"
+      ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
       "price": 42.9,
       "old_price": 54,
+      "rating": 5,
+      "is_bestseller": true,
+      "is_sale": true,
+      "is_new": false,
+      "is_featured": true,
       "colors": [
         "dark blue",
         "gray",
@@ -14,11 +24,6 @@
         "orange",
         "light orange"
       ],
-      "rating": 5,
-      "is_bestseller": true,
-      "is_sale": true,
-      "is_new": false,
-      "is_featured": true,
       "type": [
         "lighting",
         "Bedding",
@@ -60,34 +65,39 @@
           "rating": 3,
           "date": "23 Jan"
         }
-      ],
-      "images": [
-        "https://dl.dropbox.com/s/rtu6jbnc3s7zjia/01.jpg?dl=0",
-        "https://dl.dropbox.com/s/rtu6jbnc3s7zjia/01.jpg?dl=0",
-        "https://dl.dropbox.com/s/rtu6jbnc3s7zjia/01.jpg?dl=0"
       ]
     },
     {
       "id": 2,
       "name": "Wooden chair",
-      "price": 187,
-      "description": "Amet amet Lorem eu consectetur in deserunt nostrud dolor culpa ad sint amet. Nostrud deserunt consectetur culpa minim mollit veniam aliquip pariatur exercitation ullamco ea voluptate et. Pariatur ipsum mollit magna proident nisi ipsum.",
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
+      "image": "https://george-fx.github.io/funiq/resources/products/02.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq/resources/products/02.jpg",
+        "https://george-fx.github.io/funiq/resources/products/02.jpg",
+        "https://george-fx.github.io/funiq/resources/products/02.jpg"
       ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "price": 42.9,
+      "old_price": 54,
       "rating": 5,
-      "is_bestseller": false,
-      "is_sale": false,
-      "is_new": true,
-      "is_featured": false,
+      "is_bestseller": true,
+      "is_sale": true,
+      "is_new": false,
+      "is_featured": true,
+      "colors": [
+        "dark blue",
+        "gray",
+        "green",
+        "orange",
+        "light orange"
+      ],
       "type": [
-        "chairs & tables",
-        "office",
-        "decor"
+        "lighting",
+        "Bedding",
+        "Chairs & Tables",
+        "Office",
+        "decor",
+        "Garden"
       ],
       "reviews": [
         {
@@ -122,11 +132,6 @@
           "rating": 3,
           "date": "23 Jan"
         }
-      ],
-      "images": [
-        "https://dl.dropbox.com/s/p8ze297ef58kd75/02.jpg?dl=0",
-        "https://dl.dropbox.com/s/p8ze297ef58kd75/02.jpg?dl=0",
-        "https://dl.dropbox.com/s/p8ze297ef58kd75/02.jpg?dl=0"
       ]
     },
     {
