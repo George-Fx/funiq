@@ -401,6 +401,207 @@
           "date": "23 Jan"
         }
       ]
+    },
+    {
+      "id": 7,
+      "name": "Chair yellow",
+      "image": "https://george-fx.github.io/funiq/resources/products/07.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq/resources/products/07.jpg",
+        "https://george-fx.github.io/funiq/resources/products/07.jpg",
+        "https://george-fx.github.io/funiq/resources/products/07.jpg"
+      ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "price": 42.9,
+      "old_price": 54,
+      "rating": 5,
+      "is_bestseller": true,
+      "is_sale": true,
+      "is_new": false,
+      "is_featured": true,
+      "colors": [
+        "dark blue",
+        "gray",
+        "green",
+        "orange",
+        "light orange"
+      ],
+      "type": [
+        "lighting",
+        "Bedding",
+        "Chairs & Tables",
+        "Office",
+        "decor",
+        "Garden"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Armchair blue",
+      "image": "https://george-fx.github.io/funiq/resources/products/08.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq/resources/products/08.jpg",
+        "https://george-fx.github.io/funiq/resources/products/08.jpg",
+        "https://george-fx.github.io/funiq/resources/products/08.jpg"
+      ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "price": 42.9,
+      "old_price": 54,
+      "rating": 5,
+      "is_bestseller": true,
+      "is_sale": true,
+      "is_new": false,
+      "is_featured": true,
+      "colors": [
+        "dark blue",
+        "gray",
+        "green",
+        "orange",
+        "light orange"
+      ],
+      "type": [
+        "lighting",
+        "Bedding",
+        "Chairs & Tables",
+        "Office",
+        "decor",
+        "Garden"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Chair",
+      "image": "https://george-fx.github.io/funiq/resources/products/09.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq/resources/products/09.jpg",
+        "https://george-fx.github.io/funiq/resources/products/09.jpg",
+        "https://george-fx.github.io/funiq/resources/products/09.jpg"
+      ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "price": 42.9,
+      "old_price": 54,
+      "rating": 5,
+      "is_bestseller": true,
+      "is_sale": true,
+      "is_new": false,
+      "is_featured": true,
+      "colors": [
+        "dark blue",
+        "gray",
+        "green",
+        "orange",
+        "light orange"
+      ],
+      "type": [
+        "lighting",
+        "Bedding",
+        "Chairs & Tables",
+        "Office",
+        "decor",
+        "Garden"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
     }
   ]
 }
