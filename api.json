@@ -8,11 +8,11 @@
       "price": 42.9,
       "old_price": 54,
       "colors": [
-        "carrot",
-        "blue",
-        "beige",
-        "purple",
-        "black"
+        "dark blue",
+        "gray",
+        "green",
+        "orange",
+        "light orange"
       ],
       "rating": 5,
       "is_bestseller": true,
