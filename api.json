@@ -1089,18 +1089,21 @@
       "id": 1,
       "titleLine1": "Duvet cover and",
       "titleLine2": "pillowcase 30% Off",
+      "btnText": "shop now",
       "image": "https://george-fx.github.io/funiq/resources/carousel/01.jpg"
     },
     {
       "id": 2,
       "titleLine1": "Duvet cover and",
       "titleLine2": "pillowcase 30% Off",
+       "btnText": "shop now",
       "image": "https://george-fx.github.io/funiq/resources/carousel/01.jpg"
     },
     {
       "id": 3,
       "titleLine1": "Duvet cover and",
       "titleLine2": "pillowcase 30% Off",
+       "btnText": "shop now",
       "image": "https://george-fx.github.io/funiq/resources/carousel/01.jpg"
     }
   ]
