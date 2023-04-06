@@ -1072,14 +1072,14 @@
     {
       "id": "1",
       "image": "https://george-fx.github.io/funiq/resources/banners/02.jpg",
-       "titleLine1": "spring discounts",
+      "titleLine1": "spring discounts",
       "titleLine2": "on leather chairs",
       "btnText": "shop now"
     },
     {
       "id": "1",
       "image": "https://george-fx.github.io/funiq/resources/banners/01.png",
-       "titleLine1": "spring discounts",
+      "titleLine1": "spring discounts",
       "titleLine2": "on leather chairs",
       "btnText": "shop now"
     }
@@ -1096,14 +1096,14 @@
       "id": 2,
       "titleLine1": "Duvet cover and",
       "titleLine2": "pillowcase 30% Off",
-       "btnText": "shop now",
+      "btnText": "shop now",
       "image": "https://george-fx.github.io/funiq/resources/carousel/01.jpg"
     },
     {
       "id": 3,
       "titleLine1": "Duvet cover and",
       "titleLine2": "pillowcase 30% Off",
-       "btnText": "shop now",
+      "btnText": "shop now",
       "image": "https://george-fx.github.io/funiq/resources/carousel/01.jpg"
     }
   ]
