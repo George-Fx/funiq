@@ -1065,19 +1065,22 @@
     {
       "id": "1",
       "image": "https://george-fx.github.io/funiq/resources/banners/01.jpg",
-      "title": "Take 50% off!",
+      "titleLine1": "spring discounts",
+      "titleLine2": "on leather chairs",
       "btnText": "shop now"
     },
     {
       "id": "1",
       "image": "https://george-fx.github.io/funiq/resources/banners/02.jpg",
-      "title": "Take 50% off!",
+       "titleLine1": "spring discounts",
+      "titleLine2": "on leather chairs",
       "btnText": "shop now"
     },
     {
       "id": "1",
       "image": "https://george-fx.github.io/funiq/resources/banners/01.png",
-      "title": "Take 50% off!",
+       "titleLine1": "spring discounts",
+      "titleLine2": "on leather chairs",
       "btnText": "shop now"
     }
   ],
