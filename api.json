@@ -18,11 +18,11 @@
       "is_new": false,
       "is_featured": false,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
@@ -84,11 +84,11 @@
       "is_new": false,
       "is_featured": false,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
@@ -150,11 +150,11 @@
       "is_new": false,
       "is_featured": false,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
@@ -216,11 +216,11 @@
       "is_new": false,
       "is_featured": false,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
@@ -282,11 +282,11 @@
       "is_new": false,
       "is_featured": false,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
@@ -348,11 +348,11 @@
       "is_new": false,
       "is_featured": false,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
@@ -414,11 +414,11 @@
       "is_new": false,
       "is_featured": true,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
@@ -480,11 +480,11 @@
       "is_new": false,
       "is_featured": true,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
@@ -546,11 +546,11 @@
       "is_new": false,
       "is_featured": true,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
@@ -612,11 +612,11 @@
       "is_new": false,
       "is_featured": true,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
@@ -678,11 +678,11 @@
       "is_new": false,
       "is_featured": true,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
@@ -745,11 +745,11 @@
       "is_new": false,
       "is_featured": true,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
@@ -811,11 +811,11 @@
       "is_new": false,
       "is_featured": true,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
@@ -878,11 +878,11 @@
       "is_new": false,
       "is_featured": true,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
@@ -945,11 +945,11 @@
       "is_new": false,
       "is_featured": true,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
@@ -1011,11 +1011,11 @@
       "is_new": false,
       "is_featured": true,
       "colors": [
-        "dark blue",
-        "gray",
-        "green",
-        "orange",
-        "light orange"
+        "color01",
+        "color02",
+        "color03",
+        "color04",
+        "color05"
       ],
       "types": [
         "lighting",
