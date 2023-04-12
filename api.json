@@ -476,7 +476,7 @@
       "price": 229.7,
       "rating": 5,
       "is_bestseller": false,
-      "is_sale": false,
+      "is_sale": true,
       "is_new": false,
       "is_featured": true,
       "colors": [
